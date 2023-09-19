@@ -1,0 +1,10 @@
+COMIDA
+-fideos
+-leche
+-arroz
+-azucar
+
+ARTICULO DE LIMPIEZA
+-jabon
+-lavandina
+-detergente
